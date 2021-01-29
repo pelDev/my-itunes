@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Itunes</string>
+    <string name="default_text">No Music Found for Artiste</string>
+</resources>
